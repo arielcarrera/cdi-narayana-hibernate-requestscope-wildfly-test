@@ -3,6 +3,8 @@ Test Project: CDI + JPA + JTA (Weld + Hibernate + Narayana)
 
 Sample project for CDI, JPA and JTA integration.
 
+Tests with Arquillian and a managed Wildfly container.
+
 
 Based on sample projects:
 
